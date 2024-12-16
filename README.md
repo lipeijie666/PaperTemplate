@@ -1,4 +1,4 @@
-# Raper template 
+# Paper template 
 This is a collection to show paper template for modeling contests
 
 ## Usage
